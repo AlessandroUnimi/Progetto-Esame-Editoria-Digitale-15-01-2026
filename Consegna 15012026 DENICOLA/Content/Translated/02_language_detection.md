@@ -8,17 +8,6 @@
 ## 1. Obiettivo e Concetto
 L'obiettivo di questo modulo è fornire gli strumenti per identificare istantaneamente una lingua e analizzare il "senso" profondo di una frase senza limitarsi alla ricerca di singole parole chiave.
 
-```mermaid
-graph TD
-    A[Input Multilingua] --> B{Identificazione Lingua}
-    B -->|Rilevata| C[Analisi del Significato]
-    B -->|Incerta| D[Richiesta Chiarimento]
-    C --> E[Mappatura Vettoriale]
-    E --> F[Output: Riassunto/Classificazione]
-    
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style F fill:#bbf,stroke:#333,stroke-width:2px
-```
 
 ## 2. Strategie di Prompt Design per la Detection
 Per evitare errori di traduzione o risposte nella lingua sbagliata, il primo passo operativo è istruire l'IA a "identificare" la lingua di un testo prima di elaborarlo. Questo aumenta l'affidabilità del lavoro finale.
@@ -95,4 +84,5 @@ Per attivare un'analisi dei significati su grandi moli di dati, seguire questa p
 > La tecnologia di analisi dei significati è solida, ma il modello ha una conoscenza degli eventi ferma al 2021. Per analizzare i significati linguistici, però, questo non è un limite rilevante.
 
 > **I dati dei nostri clienti sono al sicuro?**
+
 > Sì. Tutti i testi inviati tramite i nostri script professionali (API) non vengono usati per addestrare i modelli pubblici di OpenAI.
