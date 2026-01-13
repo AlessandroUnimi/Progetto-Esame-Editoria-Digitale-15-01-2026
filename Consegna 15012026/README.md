@@ -4,7 +4,7 @@ Questa cartella contiene i materiali, gli script e gli output relativi alla cost
 
 ## Struttura delle directory
 
-.
+```
 ├── Content/
 ├── Output/
 ├── Relazione/
@@ -14,7 +14,7 @@ Questa cartella contiene i materiali, gli script e gli output relativi alla cost
 ├── ePub.css
 ├── style.css
 └── README.md
-
+```
 ### Content
 Contiene tutti i file di origine del manuale, inclusi:
 - file grezzi di partenza
