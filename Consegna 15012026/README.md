@@ -62,5 +62,4 @@ Foglio di stile dedicato alla formattazione ePub, ottimizzato per la lettura su 
 
 ## Note
 - Gli script sono pensati per essere utilizzati in sequenza logica: pulizia → elaborazione → build.
-- La separazione tra Content, Output e Relazione garantisce chiarezza e modularità nel workflow.
 
