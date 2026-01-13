@@ -23,12 +23,8 @@ Contiene tutti i file di origine del manuale, inclusi:
 Questa directory rappresenta la base contenutistica del progetto.
 
 ### Output
-Contiene i file di output finali, generati a partire dai contenuti presenti in Content tramite gli script di build e trasformazione.
+Contiene i file di output finali (HTML,EPUB, PDF), generati a partire dai contenuti presenti in Content tramite gli script di build e trasformazione.
 
-Esempi tipici:
-- file HTML
-- file ePub
-- file unificati del manuale
 
 ### Relazione
 Comprende:
