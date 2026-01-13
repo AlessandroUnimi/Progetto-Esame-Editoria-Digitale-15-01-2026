@@ -62,4 +62,5 @@ Foglio di stile dedicato alla formattazione ePub, ottimizzato per la lettura su 
 
 ## Note
 - Gli script sono pensati per essere utilizzati in sequenza logica: pulizia → elaborazione → build.
+- Per poter compilare con successo il codice "editorial_pipelineAPI.py" è necessario creare un file .env contenente una APIKEY.
 
